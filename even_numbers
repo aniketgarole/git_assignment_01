@@ -1,0 +1,7 @@
+let start_number = 25;
+let end_number = 123;
+for (let i = start_number; i <= end_number; i++) {
+	if (i % 2 === 0) {
+		console.log(i);
+}
+}
