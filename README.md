@@ -1,2 +1,2 @@
-# test_tepo
-my first repo
+My introduction to git.
+
